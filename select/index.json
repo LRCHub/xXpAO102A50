@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "世界は美しいはずなんだ",
+  "base_artist": "yama",
+  "createdAt": "2026-02-28T10:57:03.269953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界は美しいはずなんだ",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_世界は美しいはずなんだ_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界は美しいはずなんだ",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_世界は美しいはずなんだ_yama.txt"
+    }
+  ]
+}
